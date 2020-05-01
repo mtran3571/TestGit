@@ -1,1 +1,2 @@
 ceate edu6.txt
+modify 1
